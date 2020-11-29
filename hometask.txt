@@ -1,1 +1,7 @@
 Отличия в : with nice buttons on his jacket
+
+Коммиты видимые:
+heat added
+Merge remote-tracking branch 'origin/hat' into master
+Merge branch 'boots_buttons' into master
+с отличиями между ветками в hometask.txt
